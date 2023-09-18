@@ -1,1 +1,1 @@
-[![RedMeansWar's stats](https://github-readme-stats.vercel.app/api/wakatime?username=RedMeansWar)](https://github.com/anuraghazra/github-readme-stats)
+![RedMeansWar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedMeansWar&show_icons=true&theme=radical)
