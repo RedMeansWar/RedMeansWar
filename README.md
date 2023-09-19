@@ -4,6 +4,6 @@
 
 [![RedMeansWar's wakatime stats](https://github-readme-stats-gold-psi.vercel.app/api/wakatime?username=RedMeansWar&v=2)](https://github.com/RedMeansWar/github-readme-stats)
 
-### Languages
+### Languages That I Know
 <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#512BD4" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
