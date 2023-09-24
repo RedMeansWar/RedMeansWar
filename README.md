@@ -9,6 +9,8 @@
 
 ## [Death](https://github.com/RedMeansWar/Red.Fivem.Death)
 
+## [Delete Vehicle](https://github.com/RedMeansWar/Red.Fivem.DeleteVehicle)
+
 </details>
 
 <details>
