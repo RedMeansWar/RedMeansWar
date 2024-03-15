@@ -14,3 +14,7 @@
 ### Languages That I Know And Software I Use
 <img src="https://skillicons.dev/icons?i=cs,discordjs,dotnet,html,js,css,bootstrap,lua,mysql" />
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,discord,pr,ps,windows,linux,cloudflare" />
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RedMeansWar/RedMeansWar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
