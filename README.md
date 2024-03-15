@@ -1,31 +1,16 @@
-![RedMeansWar's GitHub stats](https://github-readme-stats-gold-psi.vercel.app/api?username=RedMeansWar&show_icons=true&theme=tokyonight)
+![RedMeansWar's GitHub stats](https://github-readme-stats-gold-psi.vercel.app/api?username=RedMeansWar&show_icons=true&rank_icon=github&theme=holi)
 ### MOST USED LANGUAGES
-![Top Langs](https://github-readme-stats-gold-psi.vercel.app/api/top-langs/?username=RedMeansWar&theme=tokyonight)
+![Top Langs](https://github-readme-stats-gold-psi.vercel.app/api/top-langs/?username=RedMeansWar&theme=holi)
 
 <details>
   <summary>FiveM Scripts</summary>
-  
-## [Cuff](https://github.com/RedMeansWar/Red.Fivem.Cuff)
 
-## [Death](https://github.com/RedMeansWar/Red.Fivem.Death)
-
-## [Delete Vehicle](https://github.com/RedMeansWar/Red.Fivem.DeleteVehicle)
+## [Scripts](https://github.com/RedMeansWar/Scripts)
 
 </details>
 
-<details>
-  <summary>Discord Bots</summary>
-</details>
+[![RedMeansWar's Stats](https://github-readme-stats-gold-psi.vercel.app/api/wakatime?username=RedMeansWar&v=2&layout=compact)](https://github.com/RedMeansWar/github-readme-stats)
 
-<details>
-  <summary>Windows Forms</summary>
-  
-  ## [DOJ AIO](https://github.com/RedMeansWar/DoJ-AIO)
-
-</details>
-
-[![RedMeansWar's Stats](https://github-readme-stats-gold-psi.vercel.app/api/wakatime?username=RedMeansWar&v=2)](https://github.com/RedMeansWar/github-readme-stats)
-
-### Languages That I Know
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#512BD4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+### Languages That I Know And Software I Use
+<img src="https://skillicons.dev/icons?i=cs,discordjs,dotnet,html,js,css,bootstrap,lua,mysql" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,discord,pr,ps,windows,linux,cloudflare" />
