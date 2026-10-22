@@ -68,8 +68,8 @@ I mostly learn by picking a project slightly too big for me and question my life
 | **[Tweeny](https://github.com/RedMeansWar/Tweeny)** | High-performance C# zero-allocation tweening engine | C# · .NET |
 | **[WinUtils](https://github.com/RedMeansWar/WinUtils)** | Modern header-only C++ Windows library | C++ |
 | **[JRPC](https://github.com/RedMeansWar/JRPC)** | Extended toolset for remote Xbox 360 development | C# |
-| **[ENV-X](https://github.com/ENV-X/ENV-X)** | Lightweight, type-safe environment variable manager | TypeScript |
-| **[TSInstaller](https://github.com/ENV-X/TSInstaller)** | TeamSpeak 3 plugin packaging tool (CLI & GUI) | C++ |
+| **[ENV-X](https://github.com/RedMeansWar-Development/ENV-X)** | Lightweight, type-safe environment variable manager | TypeScript |
+| **[TSInstaller](https://github.com/RedMeansWar-Development/TSInstaller)** | TeamSpeak 3 plugin packaging tool (CLI & GUI) | C++ |
 | **[TempClean](https://github.com/RedMeansWar/TempClean)** | Fast temporary file cleaner utility | C++ · CMake |
 
 ---
